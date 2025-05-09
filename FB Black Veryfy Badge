@@ -1,13 +1,13 @@
 # Facebook Black Veryfy Badge By LMNx9 
-# Codded by LIMON HOSSAIN 
-# FB - https://facebook.com/LJ.LMNx9
+# Codded by KRISANTO KIRIDO 
+# FB - https://www.facebook.com/profile.php?id=61568262432328
 
 
 
-javascript:var fullName = " Limon Hossain 󱢏";
-var firstName = "Limon";
+javascript:var fullName = " Krisanto Kirido 󱢏";
+var firstName = "Krisanto";
 var middleName = "";
-var lastName = "Hossain"; 
+var lastName = "Kirido"; 
 
 var spinr = require('SiteData')['__spin_r'];
 var jazoest = require('SprinkleConfig')['jazoest'];
